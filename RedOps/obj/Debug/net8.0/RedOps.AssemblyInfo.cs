@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RedOps")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dd4a94bc415bda650579faf0faaecbad95c202f")]
 [assembly: System.Reflection.AssemblyProductAttribute("RedOps")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RedOps")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

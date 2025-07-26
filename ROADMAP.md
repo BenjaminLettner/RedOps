@@ -27,11 +27,11 @@ This document outlines the development plan for the OSINT tool, structured aroun
 - [x] Network mapping visualization
 
 ### 1.2 Web Application Recon
-- [ ] Web server fingerprinting
-- [ ] Directory and file enumeration
-- [ ] Subdomain enumeration
-- [ ] SSL/TLS certificate analysis
-- [ ] API endpoint discovery
+- [x] Web server fingerprinting
+- [x] Directory and file enumeration
+- [x] Subdomain enumeration
+- [x] SSL/TLS certificate analysis
+- [x] API endpoint discovery
 
 ### 1.3 OSINT & Information Gathering
 - [ ] WHOIS lookups

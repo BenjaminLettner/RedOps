@@ -145,6 +145,121 @@ RedOps features an extensible plugin architecture for custom functionality.
    Enter range: 192.168.1.0/24
    ```
 
+### Web Application Reconnaissance
+
+RedOps provides comprehensive web application reconnaissance capabilities with professional-grade wordlists and advanced analysis.
+
+#### Web Server Fingerprinting
+
+**Basic Usage:**
+```
+Main Menu → Reconnaissance → Web Application Recon → Web Server Fingerprinting
+Enter target: example.com or https://example.com
+```
+
+**Features:**
+- Server type and version identification
+- Technology stack detection (PHP, ASP.NET, etc.)
+- Security header analysis
+- HTTP method enumeration
+- Response header fingerprinting
+
+#### Directory and File Enumeration
+
+**Basic Usage:**
+```
+Web Application Recon → Directory and File Enumeration
+Enter target: https://example.com
+Select wordlists: RAFT Medium Directories (30k+ entries - RECOMMENDED)
+```
+
+**Wordlist Options:**
+- **RAFT Medium Directories**: 30,000+ research-grade entries
+- **Big Directory List**: 20,000+ comprehensive paths
+- **RAFT Medium Files**: 17,000+ file extensions and names
+- **Custom Comprehensive**: 560+ curated directories/files
+- **Common Lists**: Built-in fallback wordlists
+
+**Advanced Features:**
+- Concurrent scanning with configurable threads
+- Interesting path analysis (admin, config, backup files)
+- HTTP status code filtering
+- Response size analysis
+- Custom wordlist support
+
+#### Subdomain Enumeration
+
+**Basic Usage:**
+```
+Web Application Recon → Subdomain Enumeration
+Enter domain: example.com
+Select wordlists: Comprehensive Subdomains + Top Subdomains
+```
+
+**Features:**
+- DNS resolution with A/AAAA record lookup
+- HTTP/HTTPS status checking
+- Wildcard DNS detection and filtering
+- Comprehensive subdomain wordlists (1,600+ entries)
+- Custom subdomain list support
+- Concurrent DNS resolution
+
+#### SSL/TLS Certificate Analysis
+
+**Basic Usage:**
+```
+Web Application Recon → SSL/TLS Certificate Analysis
+Enter target: example.com
+Select features: All analysis options
+```
+
+**Analysis Features:**
+- **Certificate Chain Analysis**: Complete certificate validation
+- **Certificate Expiry Check**: Days until expiration with warnings
+- **Weak Cipher Detection**: Identifies insecure encryption
+- **SSL Version Analysis**: Protocol version security assessment
+- **Deep Security Inspection**: Comprehensive security grading
+
+**Security Grading:**
+- **A+**: Excellent security configuration
+- **A/B**: Good security with minor issues
+- **C/D**: Moderate security concerns
+- **F**: Critical security vulnerabilities
+
+**Multi-Port Analysis:**
+- Tests common SSL ports: 443, 8443, 9443
+- Custom port configuration
+- Concurrent certificate analysis
+
+#### API Endpoint Discovery
+
+**Basic Usage:**
+```
+Web Application Recon → API Endpoint Discovery
+Enter target: https://api.example.com
+Select features: REST API Endpoints, Swagger Documentation, Common API Paths
+```
+
+**Discovery Methods:**
+- **REST API Endpoints**: Standard RESTful API discovery
+- **GraphQL Endpoints**: GraphQL schema introspection
+- **Swagger/OpenAPI Documentation**: Automatic API spec parsing
+- **JavaScript File Analysis**: Client-side endpoint extraction
+- **Common API Paths**: Standard API path enumeration
+- **Authentication Testing**: Auth requirement identification
+
+**API Types Supported:**
+- REST APIs with JSON/XML responses
+- GraphQL APIs with introspection
+- SOAP/XML web services
+- Custom API endpoints
+
+**Security Analysis:**
+- Missing security headers detection
+- Information disclosure identification
+- Authentication requirement analysis
+- API documentation exposure assessment
+
 ### Advanced Scanning Techniques
 
 **Stealth Scanning**

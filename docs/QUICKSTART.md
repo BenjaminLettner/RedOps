@@ -116,6 +116,59 @@ Congratulations! You've completed your first RedOps assessment.
    Include: Service detection and OS fingerprinting
    ```
 
+### Web Application Reconnaissance
+
+**Quick Web Assessment:**
+
+1. **Web Server Fingerprinting**
+   ```
+   Main Menu → Reconnaissance → Web Application Recon → Web Server Fingerprinting
+   Target: httpbin.org
+   
+   Results:
+   ✓ Server: nginx/1.18.0
+   ✓ Technology: Python/Flask
+   ✓ Security Headers: Mixed (some missing)
+   ```
+
+2. **Directory Enumeration with Professional Wordlists**
+   ```
+   Web Application Recon → Directory and File Enumeration
+   Target: httpbin.org
+   Wordlists: RAFT Medium Directories (30k+ entries)
+   
+   Results:
+   ✓ Found 15 accessible paths
+   ✓ Interesting: /admin, /config, /backup
+   ✓ Using 30,000+ professional wordlist entries
+   ```
+
+3. **SSL/TLS Security Analysis**
+   ```
+   Web Application Recon → SSL/TLS Certificate Analysis
+   Target: httpbin.org
+   Features: All analysis options
+   
+   Results:
+   ✓ Security Grade: A
+   ✓ Certificate Valid: 89 days remaining
+   ✓ Strong Ciphers: TLS 1.3 supported
+   ✓ No critical vulnerabilities found
+   ```
+
+4. **API Endpoint Discovery**
+   ```
+   Web Application Recon → API Endpoint Discovery
+   Target: httpbin.org
+   Features: REST APIs, Swagger Documentation
+   
+   Results:
+   ✓ Found 25+ API endpoints
+   ✓ Swagger documentation discovered
+   ✓ REST API with JSON responses
+   ✓ No authentication required for public endpoints
+   ```
+
 ### Explore Advanced Features
 
 1. **OS Fingerprinting**

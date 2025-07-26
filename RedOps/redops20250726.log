@@ -8,3 +8,154 @@
 [2025-07-26 16:15:13.878 +02:00 INF] OS fingerprinting completed for 192.168.1.89: Windows (High confidence)
 [2025-07-26 16:15:13.884 +02:00 INF] OS fingerprinting completed for 192.168.1.89: Windows (High confidence)
 [2025-07-26 16:15:35.143 +02:00 INF] Successfully loaded 37429 OUI entries from RedOps.Resources.oui.txt.
+[2025-07-26 16:39:00.526 +02:00 INF] --- RedOps Logger Initialized (Serilog) ---
+[2025-07-26 16:39:00.555 +02:00 INF] Looking for plugins in: /Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins
+[2025-07-26 16:39:00.556 +02:00 INF] Found 1 DLL(s) in plugin directory '/Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins'.
+[2025-07-26 16:39:00.557 +02:00 INF] Successfully loaded plugin: My First Sample Plugin from SamplePlugin.dll
+[2025-07-26 16:39:00.557 +02:00 INF] Finished loading plugins. Total plugins loaded: 1
+[2025-07-26 16:39:00.557 +02:00 INF] Loaded 1 plugins.
+[2025-07-26 16:39:30.984 +02:00 INF] --- RedOps Logger Initialized (Serilog) ---
+[2025-07-26 16:39:31.011 +02:00 INF] Looking for plugins in: /Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins
+[2025-07-26 16:39:31.012 +02:00 INF] Found 1 DLL(s) in plugin directory '/Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins'.
+[2025-07-26 16:39:31.014 +02:00 INF] Successfully loaded plugin: My First Sample Plugin from SamplePlugin.dll
+[2025-07-26 16:39:31.014 +02:00 INF] Finished loading plugins. Total plugins loaded: 1
+[2025-07-26 16:39:31.014 +02:00 INF] Loaded 1 plugins.
+[2025-07-26 16:39:59.623 +02:00 INF] Starting network mapping for range: 192.168.1.0/24
+[2025-07-26 16:42:08.029 +02:00 INF] Starting OS fingerprinting for 192.168.1.1
+[2025-07-26 16:42:08.036 +02:00 INF] Starting OS fingerprinting for 192.168.1.127
+[2025-07-26 16:42:08.037 +02:00 INF] Starting OS fingerprinting for 192.168.1.128
+[2025-07-26 16:42:08.037 +02:00 INF] Starting OS fingerprinting for 192.168.1.130
+[2025-07-26 16:42:08.038 +02:00 INF] Starting OS fingerprinting for 192.168.1.131
+[2025-07-26 16:42:08.038 +02:00 INF] Starting OS fingerprinting for 192.168.1.134
+[2025-07-26 16:42:08.038 +02:00 INF] Starting OS fingerprinting for 192.168.1.135
+[2025-07-26 16:42:08.038 +02:00 INF] Starting OS fingerprinting for 192.168.1.136
+[2025-07-26 16:42:08.039 +02:00 INF] Starting OS fingerprinting for 192.168.1.137
+[2025-07-26 16:42:08.039 +02:00 INF] Starting OS fingerprinting for 192.168.1.139
+[2025-07-26 16:42:08.049 +02:00 INF] OS fingerprinting completed for 192.168.1.130: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.049 +02:00 INF] OS fingerprinting completed for 192.168.1.127: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.049 +02:00 INF] Starting OS fingerprinting for 192.168.1.155
+[2025-07-26 16:42:08.049 +02:00 INF] Starting OS fingerprinting for 192.168.1.157
+[2025-07-26 16:42:08.050 +02:00 INF] OS fingerprinting completed for 192.168.1.134: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.050 +02:00 INF] OS fingerprinting completed for 192.168.1.135: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.050 +02:00 INF] Starting OS fingerprinting for 192.168.1.158
+[2025-07-26 16:42:08.050 +02:00 INF] Starting OS fingerprinting for 192.168.1.159
+[2025-07-26 16:42:08.055 +02:00 INF] OS fingerprinting completed for 192.168.1.137: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.055 +02:00 INF] Starting OS fingerprinting for 192.168.1.160
+[2025-07-26 16:42:08.056 +02:00 INF] OS fingerprinting completed for 192.168.1.128: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.056 +02:00 INF] Starting OS fingerprinting for 192.168.1.161
+[2025-07-26 16:42:08.059 +02:00 INF] OS fingerprinting completed for 192.168.1.155: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.059 +02:00 INF] Starting OS fingerprinting for 192.168.1.168
+[2025-07-26 16:42:08.063 +02:00 INF] OS fingerprinting completed for 192.168.1.160: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.063 +02:00 INF] Starting OS fingerprinting for 192.168.1.171
+[2025-07-26 16:42:08.066 +02:00 INF] OS fingerprinting completed for 192.168.1.161: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.066 +02:00 INF] Starting OS fingerprinting for 192.168.1.172
+[2025-07-26 16:42:08.077 +02:00 INF] OS fingerprinting completed for 192.168.1.171: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.077 +02:00 INF] Starting OS fingerprinting for 192.168.1.178
+[2025-07-26 16:42:08.093 +02:00 INF] OS fingerprinting completed for 192.168.1.172: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.093 +02:00 INF] Starting OS fingerprinting for 192.168.1.179
+[2025-07-26 16:42:08.098 +02:00 INF] OS fingerprinting completed for 192.168.1.179: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.098 +02:00 INF] Starting OS fingerprinting for 192.168.1.180
+[2025-07-26 16:42:08.123 +02:00 INF] OS fingerprinting completed for 192.168.1.131: Linux/Unix (High confidence)
+[2025-07-26 16:42:08.123 +02:00 INF] Starting OS fingerprinting for 192.168.1.181
+[2025-07-26 16:42:08.139 +02:00 INF] OS fingerprinting completed for 192.168.1.181: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.139 +02:00 INF] Starting OS fingerprinting for 192.168.1.183
+[2025-07-26 16:42:08.151 +02:00 INF] OS fingerprinting completed for 192.168.1.157: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.151 +02:00 INF] Starting OS fingerprinting for 192.168.1.185
+[2025-07-26 16:42:08.173 +02:00 INF] OS fingerprinting completed for 192.168.1.158: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.173 +02:00 INF] Starting OS fingerprinting for 192.168.1.188
+[2025-07-26 16:42:08.181 +02:00 INF] OS fingerprinting completed for 192.168.1.180: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.181 +02:00 INF] Starting OS fingerprinting for 192.168.1.191
+[2025-07-26 16:42:08.181 +02:00 INF] OS fingerprinting completed for 192.168.1.183: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.181 +02:00 INF] Starting OS fingerprinting for 192.168.1.194
+[2025-07-26 16:42:08.190 +02:00 INF] OS fingerprinting completed for 192.168.1.185: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.190 +02:00 INF] Starting OS fingerprinting for 192.168.1.195
+[2025-07-26 16:42:08.192 +02:00 INF] OS fingerprinting completed for 192.168.1.191: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.192 +02:00 INF] Starting OS fingerprinting for 192.168.1.200
+[2025-07-26 16:42:08.201 +02:00 INF] OS fingerprinting completed for 192.168.1.194: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.201 +02:00 INF] Starting OS fingerprinting for 192.168.1.250
+[2025-07-26 16:42:08.207 +02:00 INF] OS fingerprinting completed for 192.168.1.200: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.207 +02:00 INF] Starting OS fingerprinting for 192.168.1.50
+[2025-07-26 16:42:08.211 +02:00 INF] OS fingerprinting completed for 192.168.1.250: Linux/Unix (High confidence)
+[2025-07-26 16:42:08.211 +02:00 INF] Starting OS fingerprinting for 192.168.1.54
+[2025-07-26 16:42:08.219 +02:00 INF] OS fingerprinting completed for 192.168.1.195: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.219 +02:00 INF] Starting OS fingerprinting for 192.168.1.86
+[2025-07-26 16:42:08.222 +02:00 INF] OS fingerprinting completed for 192.168.1.50: Linux/Unix (High confidence)
+[2025-07-26 16:42:08.222 +02:00 INF] Starting OS fingerprinting for 192.168.1.89
+[2025-07-26 16:42:08.236 +02:00 INF] OS fingerprinting completed for 192.168.1.89: Windows (High confidence)
+[2025-07-26 16:42:08.236 +02:00 INF] Starting OS fingerprinting for 192.168.1.93
+[2025-07-26 16:42:08.259 +02:00 INF] OS fingerprinting completed for 192.168.1.188: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.259 +02:00 INF] Starting OS fingerprinting for 192.168.1.96
+[2025-07-26 16:42:08.281 +02:00 INF] OS fingerprinting completed for 192.168.1.96: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.288 +02:00 INF] OS fingerprinting completed for 192.168.1.54: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.305 +02:00 INF] OS fingerprinting completed for 192.168.1.86: Unknown (Very Low confidence)
+[2025-07-26 16:42:08.337 +02:00 INF] OS fingerprinting completed for 192.168.1.93: Unknown (Very Low confidence)
+[2025-07-26 16:42:09.182 +02:00 INF] OS fingerprinting completed for 192.168.1.159: Unknown (Very Low confidence)
+[2025-07-26 16:42:10.055 +02:00 INF] OS fingerprinting completed for 192.168.1.1: Linux/Unix (High confidence)
+[2025-07-26 16:42:13.135 +02:00 INF] OS fingerprinting completed for 192.168.1.168: Linux/Unix (High confidence)
+[2025-07-26 16:42:13.220 +02:00 INF] OS fingerprinting completed for 192.168.1.178: Unknown (Very Low confidence)
+[2025-07-26 16:42:16.047 +02:00 INF] OS fingerprinting completed for 192.168.1.136: Unknown (Very Low confidence)
+[2025-07-26 16:42:16.048 +02:00 INF] OS fingerprinting completed for 192.168.1.139: Unknown (Very Low confidence)
+[2025-07-26 16:42:16.049 +02:00 INF] Network mapping completed. Found 37 live hosts with 85 services
+[2025-07-26 16:42:16.099 +02:00 INF] Network map report saved to /Users/benjaminlettner/CascadeProjects/RedOps/RedOps/network_map_20250726_164216.txt
+[2025-07-26 16:42:16.099 +02:00 INF] Network mapping completed for 192.168.1.0/24. Found 37 live hosts with 85 services
+[2025-07-26 16:42:55.028 +02:00 INF] --- RedOps Logger Initialized (Serilog) ---
+[2025-07-26 16:42:55.054 +02:00 INF] Looking for plugins in: /Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins
+[2025-07-26 16:42:55.055 +02:00 INF] Found 1 DLL(s) in plugin directory '/Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins'.
+[2025-07-26 16:42:55.056 +02:00 INF] Successfully loaded plugin: My First Sample Plugin from SamplePlugin.dll
+[2025-07-26 16:42:55.057 +02:00 INF] Finished loading plugins. Total plugins loaded: 1
+[2025-07-26 16:42:55.057 +02:00 INF] Loaded 1 plugins.
+[2025-07-26 16:43:16.306 +02:00 INF] Starting network mapping for range: 192.168.1.89
+[2025-07-26 16:43:24.454 +02:00 INF] Starting OS fingerprinting for 192.168.1.89
+[2025-07-26 16:43:24.486 +02:00 INF] OS fingerprinting completed for 192.168.1.89: Windows (High confidence)
+[2025-07-26 16:43:24.487 +02:00 INF] Network mapping completed. Found 1 live hosts with 6 services
+[2025-07-26 16:43:41.936 +02:00 INF] Network map report saved to /Users/benjaminlettner/CascadeProjects/RedOps/RedOps/network_map_20250726_164341.txt
+[2025-07-26 16:43:41.937 +02:00 INF] Network mapping completed for 192.168.1.89. Found 1 live hosts with 6 services
+[2025-07-26 16:48:41.124 +02:00 INF] --- RedOps Logger Initialized (Serilog) ---
+[2025-07-26 16:48:41.152 +02:00 INF] Looking for plugins in: /Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins
+[2025-07-26 16:48:41.153 +02:00 INF] Found 1 DLL(s) in plugin directory '/Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins'.
+[2025-07-26 16:48:41.155 +02:00 INF] Successfully loaded plugin: My First Sample Plugin from SamplePlugin.dll
+[2025-07-26 16:48:41.155 +02:00 INF] Finished loading plugins. Total plugins loaded: 1
+[2025-07-26 16:48:41.155 +02:00 INF] Loaded 1 plugins.
+[2025-07-26 16:49:20.528 +02:00 INF] --- RedOps Logger Initialized (Serilog) ---
+[2025-07-26 16:49:20.554 +02:00 INF] Looking for plugins in: /Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins
+[2025-07-26 16:49:20.556 +02:00 INF] Found 1 DLL(s) in plugin directory '/Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins'.
+[2025-07-26 16:49:20.557 +02:00 INF] Successfully loaded plugin: My First Sample Plugin from SamplePlugin.dll
+[2025-07-26 16:49:20.557 +02:00 INF] Finished loading plugins. Total plugins loaded: 1
+[2025-07-26 16:49:20.557 +02:00 INF] Loaded 1 plugins.
+[2025-07-26 16:50:02.205 +02:00 INF] Starting web server fingerprinting for https://lettner.tech/
+[2025-07-26 16:50:17.107 +02:00 INF] Web server fingerprint report saved to /Users/benjaminlettner/CascadeProjects/RedOps/RedOps/webserver_fingerprint_20250726_165017.txt
+[2025-07-26 16:58:23.795 +02:00 INF] --- RedOps Logger Initialized (Serilog) ---
+[2025-07-26 16:58:23.829 +02:00 INF] Looking for plugins in: /Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins
+[2025-07-26 16:58:23.830 +02:00 INF] Found 1 DLL(s) in plugin directory '/Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins'.
+[2025-07-26 16:58:23.832 +02:00 INF] Successfully loaded plugin: My First Sample Plugin from SamplePlugin.dll
+[2025-07-26 16:58:23.833 +02:00 INF] Finished loading plugins. Total plugins loaded: 1
+[2025-07-26 16:58:23.833 +02:00 INF] Loaded 1 plugins.
+[2025-07-26 16:59:12.058 +02:00 INF] Starting directory enumeration for https://lettner.tech/
+[2025-07-26 16:59:43.697 +02:00 INF] Directory enumeration report saved to /Users/benjaminlettner/CascadeProjects/RedOps/RedOps/directory_enumeration_20250726_165943.txt
+[2025-07-26 17:12:05.840 +02:00 INF] --- RedOps Logger Initialized (Serilog) ---
+[2025-07-26 17:12:05.871 +02:00 INF] Looking for plugins in: /Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins
+[2025-07-26 17:12:05.873 +02:00 INF] Found 1 DLL(s) in plugin directory '/Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins'.
+[2025-07-26 17:12:05.875 +02:00 INF] Successfully loaded plugin: My First Sample Plugin from SamplePlugin.dll
+[2025-07-26 17:12:05.875 +02:00 INF] Finished loading plugins. Total plugins loaded: 1
+[2025-07-26 17:12:05.875 +02:00 INF] Loaded 1 plugins.
+[2025-07-26 17:12:29.195 +02:00 INF] Starting directory enumeration for https://lettner.tech/
+[2025-07-26 17:12:42.179 +02:00 INF] Starting web server fingerprinting for https://lettner.tech/
+[2025-07-26 17:16:32.522 +02:00 INF] --- RedOps Logger Initialized (Serilog) ---
+[2025-07-26 17:16:32.556 +02:00 INF] Looking for plugins in: /Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins
+[2025-07-26 17:16:32.557 +02:00 INF] Found 1 DLL(s) in plugin directory '/Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins'.
+[2025-07-26 17:16:32.559 +02:00 INF] Successfully loaded plugin: My First Sample Plugin from SamplePlugin.dll
+[2025-07-26 17:16:32.559 +02:00 INF] Finished loading plugins. Total plugins loaded: 1
+[2025-07-26 17:16:32.559 +02:00 INF] Loaded 1 plugins.
+[2025-07-26 17:16:58.886 +02:00 INF] Starting directory enumeration for https://lettner.tech/
+[2025-07-26 17:24:32.187 +02:00 INF] --- RedOps Logger Initialized (Serilog) ---
+[2025-07-26 17:24:32.220 +02:00 INF] Looking for plugins in: /Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins
+[2025-07-26 17:24:32.222 +02:00 INF] Found 1 DLL(s) in plugin directory '/Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins'.
+[2025-07-26 17:24:32.223 +02:00 INF] Successfully loaded plugin: My First Sample Plugin from SamplePlugin.dll
+[2025-07-26 17:24:32.224 +02:00 INF] Finished loading plugins. Total plugins loaded: 1
+[2025-07-26 17:24:32.224 +02:00 INF] Loaded 1 plugins.
+[2025-07-26 17:24:46.734 +02:00 INF] --- RedOps Logger Initialized (Serilog) ---
+[2025-07-26 17:24:46.770 +02:00 INF] Looking for plugins in: /Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins
+[2025-07-26 17:24:46.771 +02:00 INF] Found 1 DLL(s) in plugin directory '/Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins'.
+[2025-07-26 17:24:46.773 +02:00 INF] Successfully loaded plugin: My First Sample Plugin from SamplePlugin.dll
+[2025-07-26 17:24:46.773 +02:00 INF] Finished loading plugins. Total plugins loaded: 1
+[2025-07-26 17:24:46.773 +02:00 INF] Loaded 1 plugins.

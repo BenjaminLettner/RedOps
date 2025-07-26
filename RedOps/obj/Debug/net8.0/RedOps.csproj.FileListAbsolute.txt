@@ -33,3 +33,4 @@
 /Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Serilog.Sinks.Console.dll
 /Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Serilog.Sinks.File.dll
 /Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Resources/oui.txt
+/Users/benjaminlettner/CascadeProjects/RedOps/RedOps/obj/Debug/net8.0/RedOps.sourcelink.json
