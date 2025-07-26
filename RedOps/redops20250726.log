@@ -1,0 +1,10 @@
+[2025-07-26 16:14:16.671 +02:00 INF] --- RedOps Logger Initialized (Serilog) ---
+[2025-07-26 16:14:16.701 +02:00 INF] Looking for plugins in: /Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins
+[2025-07-26 16:14:16.703 +02:00 INF] Found 1 DLL(s) in plugin directory '/Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins'.
+[2025-07-26 16:14:16.704 +02:00 INF] Successfully loaded plugin: My First Sample Plugin from SamplePlugin.dll
+[2025-07-26 16:14:16.704 +02:00 INF] Finished loading plugins. Total plugins loaded: 1
+[2025-07-26 16:14:16.705 +02:00 INF] Loaded 1 plugins.
+[2025-07-26 16:15:11.837 +02:00 INF] Starting OS fingerprinting for 192.168.1.89
+[2025-07-26 16:15:13.878 +02:00 INF] OS fingerprinting completed for 192.168.1.89: Windows (High confidence)
+[2025-07-26 16:15:13.884 +02:00 INF] OS fingerprinting completed for 192.168.1.89: Windows (High confidence)
+[2025-07-26 16:15:35.143 +02:00 INF] Successfully loaded 37429 OUI entries from RedOps.Resources.oui.txt.
