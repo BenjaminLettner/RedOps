@@ -1,9 +1,0 @@
-2025-05-23 23:32:45.781 [INF] --- RedOps Logger Initialized (Serilog) ---
-2025-05-23 23:32:45.909 [WRN] Plugin directory '/Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins' not found. No plugins will be loaded.
-2025-05-23 23:32:45.910 [INF] Created plugin directory at '/Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins'. Place plugin DLLs here.
-2025-05-23 23:32:45.910 [INF] Loaded 0 plugins.
-2025-05-23 23:34:53.092 [INF] --- RedOps Logger Initialized (Serilog) ---
-2025-05-23 23:34:53.195 [INF] Found 1 DLL(s) in plugin directory '/Users/benjaminlettner/CascadeProjects/RedOps/RedOps/bin/Debug/net8.0/Plugins'.
-2025-05-23 23:34:53.197 [INF] Successfully loaded plugin: My First Sample Plugin from SamplePlugin.dll
-2025-05-23 23:34:53.198 [INF] Finished loading plugins. Total plugins loaded: 1
-2025-05-23 23:34:53.198 [INF] Loaded 1 plugins.

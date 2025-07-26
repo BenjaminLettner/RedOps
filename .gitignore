@@ -347,9 +347,25 @@ FodyWeavers.xsd
 .idea/
 *.sln.iml
 
-# RedOps specific
+# RedOps specific ignores
+# Log files
 *.log
+redops*.log
+
+# Scan result files
+*_enumeration_*.txt
+*_fingerprint_*.txt
+*_scan_*.txt
+*_analysis_*.txt
+*_discovery_*.txt
 network_map_*.txt
 scan_results_*.txt
+
+# IDE specific folders
+.windsurf/
+.DS_Store
+.DS_Store?
+
+# Temporary directories
 reports/
 temp/
